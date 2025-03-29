@@ -17,4 +17,3 @@ Temperature: Switch between Celsius, Fahrenheit, and Kelvin with precision.
 Time: Transform seconds, minutes, hours, and more to keep track of time seamlessly.
 
 
-https://github.com/user-attachments/assets/daa6720a-75a5-4d9c-b2cd-3d40e2369096
